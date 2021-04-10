@@ -1,0 +1,22 @@
+.PageError {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 60px);
+  width: 100%;
+  text-align: center;
+}
+
+.PageError h2 {
+  font-size: 100px;
+  font-weight: bold;
+  color: #444;
+}
+
+.PageError h3 {
+  font-size: 30px;
+  font-weight: 400;
+  padding-top: 20px;
+  color: #444;
+}

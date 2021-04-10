@@ -1,0 +1,14 @@
+.BadgeNew__hero {
+  display: flex;
+  width: 100%;
+  padding: 2rem 0;
+  margin-bottom: 1rem;
+  justify-content: center;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  color: #ffffff;
+}
+
+.BadgeNew__hero .BadgeNew__hero-image {
+  max-height: 100px;
+}

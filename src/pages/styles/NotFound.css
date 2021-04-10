@@ -1,0 +1,17 @@
+.Not__found {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 60px);
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+}
+
+.Not__found .Not__found-container {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
