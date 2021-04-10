@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# User registration app with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is carried out in the React de platzi course, it is an application for registrars participating in events.
+
+![Preview Web App.](https://github.com/JuanWebDeveloper/platzi-badges/blob/master/src/images/appPreview.png)
 
 ## Available Scripts
 
